@@ -1,4 +1,4 @@
-# crash-course-diffusion
+# A Crash Course in Diffusion-based Generative Models
 A crash course in diffusion-based models
 
 # Session 1
