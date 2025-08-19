@@ -1,0 +1,8 @@
+theme: jekyll-theme-hacker
+title: "A Crash Course in Diffusion-based Models"
+description: "A short course on diffusion-based models accompanying the book 'Deep Generative Modeling' (Springer Cham, 2024)"
+author: "Jakub M. Tomczak"
+url: "https://jmtomczak.github.io"
+baseurl: "/crash-course-diffusion"
+markdown: kramdown
+highlighter: rouge
